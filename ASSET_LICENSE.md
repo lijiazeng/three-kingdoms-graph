@@ -6,7 +6,7 @@
 
 在适用法律允许且作者享有相关可许可权益的范围内，上述资源采用 [Creative Commons Attribution 4.0 International（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/) 许可。使用时建议署名：
 
-> 三国万象 / 李加增，CC BY 4.0，来源：https://github.com/lijiazeng/three-kingdoms-graph
+> 三国万象，CC BY 4.0，来源：https://github.com/lijiazeng/three-kingdoms-graph
 
 生成式内容在不同法域中的权利认定可能不同。本许可不构成对版权存在性、独占性或可注册性的保证，也不授予肖像权、人格权、商标权、节目名称或其他第三方权利。
 
