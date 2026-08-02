@@ -1,0 +1,944 @@
+{
+  "generatedAt": "2026-07-31T05:10:19.811Z",
+  "voice": "male-qn-jingying",
+  "model": "speech-2.8-hd",
+  "count": 104,
+  "entries": [
+    {
+      "type": "person",
+      "id": "han-xiandi",
+      "name": "汉献帝",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 717,
+      "audio": "/audio/narrations/people/han-xiandi.mp3"
+    },
+    {
+      "type": "person",
+      "id": "he-jin",
+      "name": "何进",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 756,
+      "audio": "/audio/narrations/people/he-jin.mp3"
+    },
+    {
+      "type": "person",
+      "id": "dong-zhuo",
+      "name": "董卓",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 765,
+      "audio": "/audio/narrations/people/dong-zhuo.mp3"
+    },
+    {
+      "type": "person",
+      "id": "lu-bu",
+      "name": "吕布",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 777,
+      "audio": "/audio/narrations/people/lu-bu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "diaochan",
+      "name": "貂蝉",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 789,
+      "audio": "/audio/narrations/people/diaochan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "wang-yun",
+      "name": "王允",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 771,
+      "audio": "/audio/narrations/people/wang-yun.mp3"
+    },
+    {
+      "type": "person",
+      "id": "yuan-shao",
+      "name": "袁绍",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 832,
+      "audio": "/audio/narrations/people/yuan-shao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "yuan-shu",
+      "name": "袁术",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 776,
+      "audio": "/audio/narrations/people/yuan-shu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "gongsun-zan",
+      "name": "公孙瓒",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 765,
+      "audio": "/audio/narrations/people/gongsun-zan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "liu-biao",
+      "name": "刘表",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 808,
+      "audio": "/audio/narrations/people/liu-biao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "liu-zhang",
+      "name": "刘璋",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 800,
+      "audio": "/audio/narrations/people/liu-zhang.mp3"
+    },
+    {
+      "type": "person",
+      "id": "chen-gong",
+      "name": "陈宫",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 775,
+      "audio": "/audio/narrations/people/chen-gong.mp3"
+    },
+    {
+      "type": "person",
+      "id": "cao-cao",
+      "name": "曹操",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 923,
+      "audio": "/audio/narrations/people/cao-cao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "cao-pi",
+      "name": "曹丕",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 862,
+      "audio": "/audio/narrations/people/cao-pi.mp3"
+    },
+    {
+      "type": "person",
+      "id": "cao-zhi",
+      "name": "曹植",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 854,
+      "audio": "/audio/narrations/people/cao-zhi.mp3"
+    },
+    {
+      "type": "person",
+      "id": "xun-yu",
+      "name": "荀彧",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 841,
+      "audio": "/audio/narrations/people/xun-yu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "guo-jia",
+      "name": "郭嘉",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 861,
+      "audio": "/audio/narrations/people/guo-jia.mp3"
+    },
+    {
+      "type": "person",
+      "id": "jia-xu",
+      "name": "贾诩",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 852,
+      "audio": "/audio/narrations/people/jia-xu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "xiahou-dun",
+      "name": "夏侯惇",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 739,
+      "audio": "/audio/narrations/people/xiahou-dun.mp3"
+    },
+    {
+      "type": "person",
+      "id": "xiahou-yuan",
+      "name": "夏侯渊",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 766,
+      "audio": "/audio/narrations/people/xiahou-yuan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhang-liao",
+      "name": "张辽",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 763,
+      "audio": "/audio/narrations/people/zhang-liao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "dian-wei",
+      "name": "典韦",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 768,
+      "audio": "/audio/narrations/people/dian-wei.mp3"
+    },
+    {
+      "type": "person",
+      "id": "xu-chu",
+      "name": "许褚",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 740,
+      "audio": "/audio/narrations/people/xu-chu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhang-he",
+      "name": "张郃",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 755,
+      "audio": "/audio/narrations/people/zhang-he.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sima-yi",
+      "name": "司马懿",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 719,
+      "audio": "/audio/narrations/people/sima-yi.mp3"
+    },
+    {
+      "type": "person",
+      "id": "cao-zhen",
+      "name": "曹真",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 780,
+      "audio": "/audio/narrations/people/cao-zhen.mp3"
+    },
+    {
+      "type": "person",
+      "id": "deng-ai",
+      "name": "邓艾",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 700,
+      "audio": "/audio/narrations/people/deng-ai.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhong-hui",
+      "name": "钟会",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 736,
+      "audio": "/audio/narrations/people/zhong-hui.mp3"
+    },
+    {
+      "type": "person",
+      "id": "liu-bei",
+      "name": "刘备",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 782,
+      "audio": "/audio/narrations/people/liu-bei.mp3"
+    },
+    {
+      "type": "person",
+      "id": "guan-yu",
+      "name": "关羽",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 726,
+      "audio": "/audio/narrations/people/guan-yu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhang-fei",
+      "name": "张飞",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 715,
+      "audio": "/audio/narrations/people/zhang-fei.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhuge-liang",
+      "name": "诸葛亮",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 759,
+      "audio": "/audio/narrations/people/zhuge-liang.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhao-yun",
+      "name": "赵云",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 726,
+      "audio": "/audio/narrations/people/zhao-yun.mp3"
+    },
+    {
+      "type": "person",
+      "id": "pang-tong",
+      "name": "庞统",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 738,
+      "audio": "/audio/narrations/people/pang-tong.mp3"
+    },
+    {
+      "type": "person",
+      "id": "fa-zheng",
+      "name": "法正",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 762,
+      "audio": "/audio/narrations/people/fa-zheng.mp3"
+    },
+    {
+      "type": "person",
+      "id": "ma-chao",
+      "name": "马超",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 748,
+      "audio": "/audio/narrations/people/ma-chao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "huang-zhong",
+      "name": "黄忠",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 711,
+      "audio": "/audio/narrations/people/huang-zhong.mp3"
+    },
+    {
+      "type": "person",
+      "id": "wei-yan",
+      "name": "魏延",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 709,
+      "audio": "/audio/narrations/people/wei-yan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "liu-shan",
+      "name": "刘禅",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 699,
+      "audio": "/audio/narrations/people/liu-shan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "ma-su",
+      "name": "马谡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 721,
+      "audio": "/audio/narrations/people/ma-su.mp3"
+    },
+    {
+      "type": "person",
+      "id": "jiang-wei",
+      "name": "姜维",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 731,
+      "audio": "/audio/narrations/people/jiang-wei.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sun-jian",
+      "name": "孙坚",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 702,
+      "audio": "/audio/narrations/people/sun-jian.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sun-ce",
+      "name": "孙策",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 748,
+      "audio": "/audio/narrations/people/sun-ce.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sun-quan",
+      "name": "孙权",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 742,
+      "audio": "/audio/narrations/people/sun-quan.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhou-yu",
+      "name": "周瑜",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 706,
+      "audio": "/audio/narrations/people/zhou-yu.mp3"
+    },
+    {
+      "type": "person",
+      "id": "lu-su",
+      "name": "鲁肃",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 753,
+      "audio": "/audio/narrations/people/lu-su.mp3"
+    },
+    {
+      "type": "person",
+      "id": "huang-gai",
+      "name": "黄盖",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 707,
+      "audio": "/audio/narrations/people/huang-gai.mp3"
+    },
+    {
+      "type": "person",
+      "id": "lu-meng",
+      "name": "吕蒙",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 710,
+      "audio": "/audio/narrations/people/lu-meng.mp3"
+    },
+    {
+      "type": "person",
+      "id": "lu-xun",
+      "name": "陆逊",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 737,
+      "audio": "/audio/narrations/people/lu-xun.mp3"
+    },
+    {
+      "type": "person",
+      "id": "gan-ning",
+      "name": "甘宁",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 710,
+      "audio": "/audio/narrations/people/gan-ning.mp3"
+    },
+    {
+      "type": "person",
+      "id": "zhang-zhao",
+      "name": "张昭",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 726,
+      "audio": "/audio/narrations/people/zhang-zhao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sima-zhao",
+      "name": "司马昭",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 716,
+      "audio": "/audio/narrations/people/sima-zhao.mp3"
+    },
+    {
+      "type": "person",
+      "id": "sima-yan",
+      "name": "司马炎",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 743,
+      "audio": "/audio/narrations/people/sima-yan.mp3"
+    },
+    {
+      "type": "event",
+      "id": "yellow-turban",
+      "name": "黄巾起义",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 735,
+      "audio": "/audio/narrations/events/yellow-turban.mp3"
+    },
+    {
+      "type": "event",
+      "id": "peach-garden",
+      "name": "桃园结义",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 774,
+      "audio": "/audio/narrations/events/peach-garden.mp3"
+    },
+    {
+      "type": "event",
+      "id": "eunuch-coup",
+      "name": "十常侍之乱",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 723,
+      "audio": "/audio/narrations/events/eunuch-coup.mp3"
+    },
+    {
+      "type": "event",
+      "id": "dong-enters-luoyang",
+      "name": "董卓入京",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 791,
+      "audio": "/audio/narrations/events/dong-enters-luoyang.mp3"
+    },
+    {
+      "type": "event",
+      "id": "cao-dagger",
+      "name": "孟德献刀",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 785,
+      "audio": "/audio/narrations/events/cao-dagger.mp3"
+    },
+    {
+      "type": "event",
+      "id": "coalition",
+      "name": "诸侯讨董",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 801,
+      "audio": "/audio/narrations/events/coalition.mp3"
+    },
+    {
+      "type": "event",
+      "id": "hua-xiong",
+      "name": "温酒斩华雄",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 773,
+      "audio": "/audio/narrations/events/hua-xiong.mp3"
+    },
+    {
+      "type": "event",
+      "id": "three-vs-lu",
+      "name": "三英战吕布",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 828,
+      "audio": "/audio/narrations/events/three-vs-lu.mp3"
+    },
+    {
+      "type": "event",
+      "id": "beauty-scheme",
+      "name": "连环计",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 770,
+      "audio": "/audio/narrations/events/beauty-scheme.mp3"
+    },
+    {
+      "type": "event",
+      "id": "lu-kills-dong",
+      "name": "吕布诛董卓",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 800,
+      "audio": "/audio/narrations/events/lu-kills-dong.mp3"
+    },
+    {
+      "type": "event",
+      "id": "emperor-xu",
+      "name": "曹操迎献帝",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 798,
+      "audio": "/audio/narrations/events/emperor-xu.mp3"
+    },
+    {
+      "type": "event",
+      "id": "wancheng",
+      "name": "宛城之战",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 764,
+      "audio": "/audio/narrations/events/wancheng.mp3"
+    },
+    {
+      "type": "event",
+      "id": "white-gate",
+      "name": "白门楼",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 783,
+      "audio": "/audio/narrations/events/white-gate.mp3"
+    },
+    {
+      "type": "event",
+      "id": "heroes-wine",
+      "name": "煮酒论英雄",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 815,
+      "audio": "/audio/narrations/events/heroes-wine.mp3"
+    },
+    {
+      "type": "event",
+      "id": "girdle-edict",
+      "name": "衣带诏",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 818,
+      "audio": "/audio/narrations/events/girdle-edict.mp3"
+    },
+    {
+      "type": "event",
+      "id": "guandu",
+      "name": "官渡之战",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 803,
+      "audio": "/audio/narrations/events/guandu.mp3"
+    },
+    {
+      "type": "event",
+      "id": "xu-shu-recommends",
+      "name": "徐庶荐诸葛",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 828,
+      "audio": "/audio/narrations/events/xu-shu-recommends.mp3"
+    },
+    {
+      "type": "event",
+      "id": "three-visits",
+      "name": "三顾茅庐",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 771,
+      "audio": "/audio/narrations/events/three-visits.mp3"
+    },
+    {
+      "type": "event",
+      "id": "bowang-fire",
+      "name": "火烧博望坡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 729,
+      "audio": "/audio/narrations/events/bowang-fire.mp3"
+    },
+    {
+      "type": "event",
+      "id": "changban",
+      "name": "长坂坡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 758,
+      "audio": "/audio/narrations/events/changban.mp3"
+    },
+    {
+      "type": "event",
+      "id": "debate-scholars",
+      "name": "舌战群儒",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 784,
+      "audio": "/audio/narrations/events/debate-scholars.mp3"
+    },
+    {
+      "type": "event",
+      "id": "straw-boats",
+      "name": "草船借箭",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 778,
+      "audio": "/audio/narrations/events/straw-boats.mp3"
+    },
+    {
+      "type": "event",
+      "id": "bitter-chain",
+      "name": "苦肉与连环",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 704,
+      "audio": "/audio/narrations/events/bitter-chain.mp3"
+    },
+    {
+      "type": "event",
+      "id": "east-wind",
+      "name": "借东风",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 714,
+      "audio": "/audio/narrations/events/east-wind.mp3"
+    },
+    {
+      "type": "event",
+      "id": "red-cliffs-battle",
+      "name": "火烧赤壁",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 713,
+      "audio": "/audio/narrations/events/red-cliffs-battle.mp3"
+    },
+    {
+      "type": "event",
+      "id": "huarong",
+      "name": "败走华容",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 782,
+      "audio": "/audio/narrations/events/huarong.mp3"
+    },
+    {
+      "type": "event",
+      "id": "zhou-yu-thrice",
+      "name": "三气周瑜",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 739,
+      "audio": "/audio/narrations/events/zhou-yu-thrice.mp3"
+    },
+    {
+      "type": "event",
+      "id": "enter-yi",
+      "name": "刘备入川",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 740,
+      "audio": "/audio/narrations/events/enter-yi.mp3"
+    },
+    {
+      "type": "event",
+      "id": "falling-phoenix",
+      "name": "落凤坡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 724,
+      "audio": "/audio/narrations/events/falling-phoenix.mp3"
+    },
+    {
+      "type": "event",
+      "id": "dingjun",
+      "name": "定军山",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 764,
+      "audio": "/audio/narrations/events/dingjun.mp3"
+    },
+    {
+      "type": "event",
+      "id": "hanzhong-king",
+      "name": "汉中称王",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 730,
+      "audio": "/audio/narrations/events/hanzhong-king.mp3"
+    },
+    {
+      "type": "event",
+      "id": "flood-seven-armies",
+      "name": "水淹七军",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 708,
+      "audio": "/audio/narrations/events/flood-seven-armies.mp3"
+    },
+    {
+      "type": "event",
+      "id": "white-robes",
+      "name": "白衣渡江",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 718,
+      "audio": "/audio/narrations/events/white-robes.mp3"
+    },
+    {
+      "type": "event",
+      "id": "maicheng",
+      "name": "败走麦城",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 742,
+      "audio": "/audio/narrations/events/maicheng.mp3"
+    },
+    {
+      "type": "event",
+      "id": "cao-death",
+      "name": "曹操薨",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 721,
+      "audio": "/audio/narrations/events/cao-death.mp3"
+    },
+    {
+      "type": "event",
+      "id": "liu-emperor",
+      "name": "刘备称帝",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 715,
+      "audio": "/audio/narrations/events/liu-emperor.mp3"
+    },
+    {
+      "type": "event",
+      "id": "yiling",
+      "name": "夷陵之战",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 723,
+      "audio": "/audio/narrations/events/yiling.mp3"
+    },
+    {
+      "type": "event",
+      "id": "baidi",
+      "name": "白帝托孤",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 708,
+      "audio": "/audio/narrations/events/baidi.mp3"
+    },
+    {
+      "type": "event",
+      "id": "seven-captures",
+      "name": "七擒孟获",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 743,
+      "audio": "/audio/narrations/events/seven-captures.mp3"
+    },
+    {
+      "type": "event",
+      "id": "memorial",
+      "name": "出师表",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 710,
+      "audio": "/audio/narrations/events/memorial.mp3"
+    },
+    {
+      "type": "event",
+      "id": "jieting",
+      "name": "街亭之失",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 708,
+      "audio": "/audio/narrations/events/jieting.mp3"
+    },
+    {
+      "type": "event",
+      "id": "empty-city",
+      "name": "空城计",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 725,
+      "audio": "/audio/narrations/events/empty-city.mp3"
+    },
+    {
+      "type": "event",
+      "id": "ma-su-executed",
+      "name": "挥泪斩马谡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 722,
+      "audio": "/audio/narrations/events/ma-su-executed.mp3"
+    },
+    {
+      "type": "event",
+      "id": "wooden-oxen",
+      "name": "木牛流马",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 726,
+      "audio": "/audio/narrations/events/wooden-oxen.mp3"
+    },
+    {
+      "type": "event",
+      "id": "wuzhang",
+      "name": "秋风五丈原",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 712,
+      "audio": "/audio/narrations/events/wuzhang.mp3"
+    },
+    {
+      "type": "event",
+      "id": "gaoping",
+      "name": "高平陵之变",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 700,
+      "audio": "/audio/narrations/events/gaoping.mp3"
+    },
+    {
+      "type": "event",
+      "id": "jiang-wei-campaigns",
+      "name": "姜维北伐",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 718,
+      "audio": "/audio/narrations/events/jiang-wei-campaigns.mp3"
+    },
+    {
+      "type": "event",
+      "id": "sima-zhao-heart",
+      "name": "司马昭之心",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 705,
+      "audio": "/audio/narrations/events/sima-zhao-heart.mp3"
+    },
+    {
+      "type": "event",
+      "id": "yinping",
+      "name": "偷渡阴平",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 720,
+      "audio": "/audio/narrations/events/yinping.mp3"
+    },
+    {
+      "type": "event",
+      "id": "shu-falls",
+      "name": "蜀汉灭亡",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 733,
+      "audio": "/audio/narrations/events/shu-falls.mp3"
+    },
+    {
+      "type": "event",
+      "id": "three-to-jin",
+      "name": "三国归晋",
+      "voice": "male-qn-jingying",
+      "model": "speech-2.8-hd",
+      "characters": 750,
+      "audio": "/audio/narrations/events/three-to-jin.mp3"
+    }
+  ]
+}
