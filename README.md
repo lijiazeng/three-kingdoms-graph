@@ -2,7 +2,11 @@
 
 以央视 1994 年版《三国演义》为叙事入口，对照《三国演义》原著与正史，在同一张可缩放、可拖拽的天下地图中探索人物、事件、地点及其关系。
 
-> 项目地址：<https://github.com/lijiazeng/three-kingdoms-graph>
+<p align="center">
+  <img src="./docs/images/天下.webp" alt="天下视角" width="32%">
+  <img src="./docs/images/人物.webp" alt="人物视角" width="32%">
+  <img src="./docs/images/事件.webp" alt="事件视角" width="32%">
+</p>
 
 ## 项目特色
 
